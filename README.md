@@ -25,3 +25,4 @@ Highlights brand-level performance and processing patterns using dynamic bar and
 Users can identify top brands, high-calorie products, and the share of ultra-processed items.
 
 Overall, this Power BI dashboard demonstrates the connection between nutritional balance, processing intensity, and brand presence, turning raw data into actionable, visual insights for healthier and smarter food choices.
+
